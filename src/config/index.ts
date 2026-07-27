@@ -2,13 +2,14 @@
  * @Author: yangmiaomiao
  * @Date: 2024-07-11 15:33:00
  * @LastEditors: yangmiaomiao
- * @LastEditTime: 2024-07-16 16:37:09
+ * @LastEditTime: 2025-03-20 20:11:42
  * @Description:
  */
 // ? 全局默认配置项
 
 // 首页地址（默认）
-export const HOME_URL: string = '/dataMonitor' // /home
+// export const HOME_URL: string = '/dataMonitor' // /home
+export const HOME_URL: string = '/home' // /home
 
 // 登录页地址（默认）
 export const LOGIN_URL: string = '/login'

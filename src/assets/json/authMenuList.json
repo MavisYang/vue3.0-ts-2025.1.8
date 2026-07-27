@@ -2,6 +2,16 @@
     "code": 200,
     "data": [
         {
+            "path": "/home",
+            "name": "home",
+            "component": "/home/index",
+            "meta": {
+                "icon": "Home",
+                "title": "首页",
+                "isLink": ""
+            }
+        },
+        {
             "path": "/dataMonitor",
             "name": "dataMonitor",
             "component": "/dataMonitor/index",
